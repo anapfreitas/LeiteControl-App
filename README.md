@@ -28,33 +28,25 @@ Bem-vindo ao **LeiteControl**, um aplicativo mobile desenvolvido para auxiliar p
 ---
 ## 📷 Prints do App
 
-### 🔐 Tela de Login
-<img src="./prints/login.png" width="300" alt="Login">
+| Login | Cadastro de Usuário |
+|-------|---------------------|
+| <img src="./prints/login.png" width="250"/> | <img src="./prints/cadastrar_usuario.png" width="250"/> |
 
-### 👤 Cadastro de Usuário
-<img src="./prints/cadastrar_usuario.png" width="300" alt="Cadastrar Usuário">
+| Registro de Peso | Histórico de Pesagens |
+|------------------|------------------------|
+| <img src="./prints/cadastro_registro_peso.png" width="250"/> | <img src="./prints/historico.png" width="250"/> |
 
-### ⚖️ Registro de Peso
-<img src="./prints/cadastro_registro_peso.png" width="300" alt="Cadastro/Registro de Peso">
+| Exportação CSV | Redefinir Senha |
+|----------------|------------------|
+| <img src="./prints/exportar_historico.png" width="250"/> | <img src="./prints/redefinir_senha.png" width="250"/> |
 
-### 🕓 Histórico de Pesagens
-<img src="./prints/historico.png" width="300" alt="Histórico">
+| Menu Principal | Firebase - Usuários |
+|----------------|----------------------|
+| <img src="./prints/menu.png" width="250"/> | <img src="./prints/usuarios.png" width="250"/> |
 
-### 📁 Exportação CSV
-<img src="./prints/exportar_historico.png" width="300" alt="Exportar Histórico">
-
-### 🧭 Menu Principal
-<img src="./prints/menu.png" width="300" alt="Menu">
-
-### 🔑 Redefinir Senha
-<img src="./prints/redefinir_senha.png" width="300" alt="Redefinir Senha">
-
-### 📦 Firebase – Coleção `animais`
-<img src="./prints/firestore_database.png" width="500" alt="Firestore Dados">
-
-### 👥 Firebase – Lista de Usuários
-<img src="./prints/usuarios.png" width="500" alt="Usuários Firebase">
-
+| Firebase - Coleção `animais` |
+|-------------------------------|
+| <img src="./prints/firestore_database.png" width="500"/> |
 
 
 ---
